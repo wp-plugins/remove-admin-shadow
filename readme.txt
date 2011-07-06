@@ -13,6 +13,11 @@ This plugin is for aesthetics only; it removes the shadow on the left menu bar o
 
 [Remove Admin Shadow at VanderWijk.com](http://www.vanderwijk.com/updates/remove-wordpress-3-2-admin-shadow-plugin/)
 
+== Screenshots ==
+
+1. Before activating the plugin
+2. After activating the plugin
+
 == Installation ==
 
 1. Upload plugin files
